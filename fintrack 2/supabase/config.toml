@@ -1,3 +1,0 @@
-# Verify user JWTs at the Supabase gateway as well as in the function.
-[functions.market-data]
-verify_jwt = true
